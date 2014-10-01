@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- activity main -->
+    <string name="app_name">SmartMonthly</string>
+    <string name="main_SmartMonthly">על ידי לחיצה על אני מסכים אתה \n מסכים לתנאי השימוש ומדיניות \n הפרטיות של חודשי חכם </string>
+    <string name="main_Agree">אני מסכים מסכימה </string>
+    <string name="main_UseTerms">צפה בתנאים ומדיניות פרטיות </string>
+    <string name="action_settings">Settings</string>
+
+    <!-- activity main_screen -->
+    <string name="title_activity_main_screen">MainScreenActivity</string>
+    <string name="UseTerms_header">תנאי השימוש ומדיניות הפרטיות </string>
+    <string name="UseTerms_details">Terms and Conditions \n\n Last updated on August 6, 2014 \n\n These Terms and Conditions (this "Agreement") is made by
+ 	    and between Smart Monthly Ltd ("We" or "Us"), and you ("You" or "User"). The Agreement, which includes the Privacy Policy available on the Application 
+ 	    (the "Privacy Policy") as an integral part herein shall apply to all Users (as defined below). This Agreement was last updated on August 6, 2014.
+ 	    It is effective between you and Us as of the date of you accepting this</string>
+
+    <!-- activity home -->
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="back">חזרה</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="Home_header">חודשי חכם</string>
+    <string name="HomeFragment_header">ראשי</string>
+    <string name="StandarizationFragment_header">תקנון</string>
+    <string name="TalkToUsFragment_header">דברו איתנו</string>
+    <string name="drawer_open">Open drawer</string>
+    <string name="drawer_close">Close drawer</string>
+    <string name="popup_close">X</string>
+    <string name="clear"></string>
+    
+    <!-- Home Fragment -->
+    <string name="HomeFragment_text1">פועל כדי</string>
+    <string name="HomeFragment_text2">למצא בשבילך את התוכנית הסלולארית הטובה והזולה ביותר לפי העדפותיך האישיות ואופן השימוש שלך בטלפון</string>
+    <string name="HomeFragment_text3">כל התהליך לוקח פחות מדקה ועשוי לחסוך מאות שקלים</string>
+    <string name="Continue">המשך</string>
+    
+    
+    <!-- Home 2 Fragment -->
+    <string name="HomeFragment2_text1">האם את ה מעוניין בתוכנית</string>
+    <string name="HomeFragment2_text2">מחברה ותיקה אוראנג סלקום פלאפון או מאחד החדשים</string>
+    <string name="HomeFragment2_button1">לא משנה לי</string>
+    <string name="HomeFragment2_button2">מעדיף חברה ותיקה</string>
+    <string name="HomeFragment2_button3">מעדיף מפעיל חדש</string>
+    
+    <!-- Home 3 Fragment -->
+    <string name="HomeFragment3_text1"> האם את ה מעוניין בתוכנית משפחתית</string>
+    <string name="HomeFragment3_text2">(לפחות שני קווים)</string>
+    <string name="HomeFragment3_button1">תוכנית משפחתית</string>
+    <string name="HomeFragment3_button2">תוכנית אישית</string>
+
+
+    <!-- Home 4 Fragment -->
+    <string name="HomeFragment4_text1"> האם את ה מעוניין בתוכנית הכוללת שיחות לחול</string>
+    <string name="HomeFragment4_button1">מתקשר לחול</string>
+    <string name="HomeFragment4_button2">לא חשוב לי</string>
+    
+    
+    <!-- Home 5 Fragment -->
+    <string name="HomeFragment5_text1"> לפי הבדיקה של</string>
+    <string name="HomeFragment5_text2"> חודשי חכם</string>
+    <string name="HomeFragment5_text3"> את ה משתמש ב 1.3 גיגה גלישה בחודש</string>
+    <string name="HomeFragment5_text4">לחץ המשך לתוכנית הזולה ביותר המתאימה במיוחד עבורך</string>
+    <string name="HomeFragment5_button1">המשך</string>
+    
+    
+    <!-- Home 6 Fragment -->
+    <string name="HomeFragment6_text1"> מצאנו תוכנית בשבילך</string>
+    <string name="HomeFragment6_text2"> 39</string>
+    <string name="HomeFragment6_text3">שח לחודש</string>
+    <string name="HomeFragment6_text4"> שיחות</string>
+    <string name="HomeFragment6_text5">הוט מובייל</string>
+    <string name="HomeFragment6_text6">ללא הגבלה</string>
+    <string name="HomeFragment6_text7">סמס</string>
+    <string name="HomeFragment6_text8">חבילת גלישה</string>
+    <string name="HomeFragment6_text9">3GB</string>
+    <string name="HomeFragment6_text10">פרטים נוספים</string>
+    <string name="HomeFragment6_button1">המשך</string>
+    
+    
+     <!-- Home 7 Fragment -->
+    <string name="HomeFragment7_text1">חודשי חכם</string>
+    <string name="HomeFragment7_text2">יכול לעזור</string>
+    <string name="HomeFragment7_text3">לכם בתהליך הניווד ולהפוך אותו לקל ופשוט</string>
+    <string name="HomeFragment7_text4">אנא הירשמו לשירות במסך הבא כדי שנוכל להתחיל</string>
+    <string name="HomeFragment7_text5">אל דאגה אנו לא נעשה דבר בלי אישורך המפורש</string>
+    <string name="HomeFragment7_button1">המשך</string>
+    
+    
+    <!-- Home 8 Fragment -->
+    <string name="HomeFragment8_text1">מלאו את הפרטים</string>
+    <string name="HomeFragment8_button1">המשך</string>
+
+    
+    <!-- Home 9 Fragment -->
+    <string name="HomeFragment9_text1">ספרו לחברים שלכם עלינו </string>
+    <string name="HomeFragment9_text2">ותעזרו גם להם לחסוך</string>
+    <string name="HomeFragment9_text3">אנחנו בדרך הנכונה</string>
+    <string name="HomeFragment9_text4">נציג מטעם חודשי חכם יתקשר אליכם ב 24 השעות הקרובות כדי לסייע בניוד</string>
+  	<string name="HomeFragment9_text5"> ------------------------------------------</string>
+    <string name="HomeFragment9_text6">פרטי הניוד</string>
+    <string name="HomeFragment9_text7">שם</string>
+    <string name="HomeFragment9_text8">מספר טלפון</string>
+    <string name="HomeFragment9_text9">מתנייד לגולן טלקום בתוכנית חודשית של 37 שח</string>
+    <string name="HomeFragment9_image1"></string>
+    
+      <!-- Details PopUp -->
+    <string name="DetailsPopUp_text1">עלות סים</string>
+    <string name="DetailsPopUp_text2">התוכנית בתוקף ל 12 חודשים</string>
+    <string name="DetailsPopUp_text3">לאחר זמן התוכנית יעודכן התשלום החודשי ל 99 שח אבל אל דאגה אנחנו נודיע לך לםפני הזמן כדי שלעולם לא תשלמו יותר מסכום התוכנית הנוכחי</string>
+    <string name="DetailsPopUp_text4">תוכנית משפחתית / עסקית</string>
+  	<string name="DetailsPopUp_text5">שיחות לחול</string>
+
+       
+    <!-- TalkToUs Fragment -->
+    <string name="TalkToUsFragment_text1">אנא שלחו לנו מייל עם כל שאלה הערה או בקשה נשמח לעמוד לרשותכם</string>
+    <string name="TalkToUsFragment_button1"><u>info@smartmonthly.co.il</u></string>
+
+</resources>

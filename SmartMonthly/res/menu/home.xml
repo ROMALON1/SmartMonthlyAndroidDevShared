@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.smartmonthly.HomeActivity" >
+
+    <item
+        android:id="@+id/action_back"
+        android:showAsAction="always"
+        android:title="@string/back"/>
+
+</menu>

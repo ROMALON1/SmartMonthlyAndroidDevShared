@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#29cdfd"
+    >
+ 
+    <!--
+    **************************IMPORTANT***********************************
+     change this id attribute values as "frag2_icon" and "frag2_text" for
+     fragment_layout_two.xml and "frag3_icon" and "frag3_text" for
+     fragment_layout_three.xml
+    **********************************************************************
+      -->
+
+   <TextView
+       android:id="@+id/textView1"
+       android:layout_width="wrap_content"
+       android:layout_height="266dp"
+       android:layout_marginBottom="17dp"
+       android:gravity="center|bottom"
+       android:text="@string/TalkToUsFragment_text1"
+       android:textColor="#FFFFFF"
+       android:textSize="27sp" />
+
+   <Button
+       android:id="@+id/btnLink"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_below="@+id/textView1"
+       android:layout_centerHorizontal="true"
+       android:background="@drawable/greenbutton"
+       android:textColor="@color/Blue"
+       android:textSize="24sp"
+       android:text="@string/TalkToUsFragment_button1" />
+ 
+</RelativeLayout>
+

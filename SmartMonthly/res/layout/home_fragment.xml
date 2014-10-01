@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#29cdfd"
+    android:layout_gravity="center" 
+    >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="45dp"
+        android:layout_marginTop="62dp"
+        android:gravity="top|right"
+        android:text="@string/Home_header"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/GreenLime"
+        android:textSize="21sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/textView1"
+        android:layout_alignBottom="@+id/textView1"
+        android:layout_marginRight="14dp"
+        android:layout_toLeftOf="@+id/textView1"
+        android:text="@string/HomeFragment_text1"
+        android:textColor="@color/White"
+        android:textSize="21sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/textView1"
+        android:layout_below="@+id/textView1"
+        android:text="@string/HomeFragment_text2" 
+        android:textColor="@color/White"
+        android:textSize="21sp"/>
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/textView3"
+        android:layout_below="@+id/textView3"
+        android:layout_marginTop="65dp"
+        android:text="@string/HomeFragment_text3"   
+        android:textColor="@color/White"
+        android:textSize="21sp"/>
+
+    <Button
+        android:id="@+id/next"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/textView4"
+        android:layout_marginBottom="46dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/greenbutton"
+        android:height="58sp"
+        android:text="@string/Continue"
+        android:textSize="28sp" />
+
+</RelativeLayout>
